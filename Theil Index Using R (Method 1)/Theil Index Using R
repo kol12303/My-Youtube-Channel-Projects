@@ -1,0 +1,7 @@
+In This Tuto we will learn how to calculate Theil index using R.
+The Theil index is a statistic primarily used to measure economic inequality and other economic phenomena, 
+The data that i'm using in this video are artificial.
+The Theil index can be easily decomposed in two components: one is the disparities within subgroups 
+of regions – where for example is subgroup is identified by a set of regions belonging to a country; 
+another one is the disparities between subgroups of regions (i.e. between countries or regions). 
+The sum of these two components is equal to the Theil index.
