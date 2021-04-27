@@ -1,0 +1,3 @@
+## In this video we learn how to do a Unit Root test (or stationarity) in panel datasets. the test to be computed: 
+## one of "levinlin" for Levin et al. (2002), "ips" for Im et al. (2003), "madwu" for Maddala and Wu (1999), "Pm" , 
+## "invnormal", or "logit" for various tests as in Choi (2001), or "hadri" for Hadri (2000).
