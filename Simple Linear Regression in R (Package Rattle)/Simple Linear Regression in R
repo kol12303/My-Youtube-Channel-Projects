@@ -1,0 +1,7 @@
+In this Tuto we will learn how to do Simple Linear Regression Using Package in R Called Rattle. 
+In our example we chose only two variables to estimate Simple Linear Regression.
+
+In statistics and Econometrics, linear regression is a linear approach to modelling the relationship 
+between a scalar response and one or more explanatory variables (also known as dependent and independent variables). 
+The case of one explanatory variable is called simple linear regression; 
+for more than one, the process is called multiple linear regression.
