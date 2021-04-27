@@ -1,0 +1,9 @@
+In this Tuto i will show you how to calculate Gini index and ploting Lorenz Curve for many periods from 2004 to 2015, 
+and how to present the evolution of the coefficient  across years.
+And all those technique made by using R. library(REAT)
+
+
+
+
+
+
