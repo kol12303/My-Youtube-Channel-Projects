@@ -1,0 +1,3 @@
+# in this Tuto we learn how to use R to estimate a dynamic model using "plm" package, i tried to simplify 
+# the understanding of generalized method of moments (GMM) technique in such a manner that beginners can comprehend. 
+System GMM and Difference GMM.
