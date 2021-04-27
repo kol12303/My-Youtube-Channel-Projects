@@ -1,0 +1,4 @@
+In this Tuto we will learn to estimat a model with GMM.
+"pdynmc" is an R-package for GMM estimation of linear dynamic panel data models that are based on nonlinear moment conditions as proposed by Ahn and Schmidt(1995). 
+In addition, we allow for iterated GMM in light of recent developments in its theory.
+In this video we will see the following Points:
