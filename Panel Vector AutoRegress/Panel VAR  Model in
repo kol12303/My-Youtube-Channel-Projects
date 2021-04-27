@@ -1,0 +1,12 @@
+This package (panelvar) extend two general methods of moment (GMM) estimators to panel vector autoregression models (PVAR) 
+with p lags of endogenous variables, predetermined and strictly exogenous variables. We ﬁrst extend the ﬁrst difference GMM 
+estimator to this extended PVAR model. Second, we do the same for the system GMM estimator.
+We implement these estimators in the R package panelvar. In addition to the GMM estimators, we contribute to the empirical 
+literature by implementing common speciﬁcation tests (Hansen overidentiﬁcation test, lag selection criterion and stability 
+test of the PVAR polynomial) and classical structural analysis for PVAR models such as orthogonal and generalized impulse 
+response functions, bootstrapped conﬁdence intervals for impulse response
+analysis and forecast error variance decompositions. Finally, we implement the ﬁrst difference and the forward orthogonal 
+transformation to remove the ﬁxed effects.
+
+Source: Sigmund, M., & Ferstl, R. (2019). Panel vector autoregression in R with the package panelvar. The Quarterly Review 
+of Economics and Finance.
