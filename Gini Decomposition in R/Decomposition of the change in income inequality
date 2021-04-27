@@ -1,0 +1,5 @@
+In this Tuto we learn How to decompose Gini Coefficient into within effect ant between effect Using R.
+The decomposition of the Gini coefficient by between effect  and within effect group or regional inequality (Spatial inequality). 
+In most cases there is an overlap or Residual (effect, Term ) of the distribution of both groups. Consequence is that between and 
+within group inequality doesn't add up to the total Gini coefficient. 
+In those cases there is an overlap term. Also referred to as interaction effect.
