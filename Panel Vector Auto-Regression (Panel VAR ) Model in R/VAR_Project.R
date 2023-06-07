@@ -18,8 +18,7 @@ View(Dataset)
 # Estimating the VAR model
 VAR_Model <- pvargmm(dependent_vars = c("variable1", "variable2","variable3"),
                       lags = 3,
-                      predet_vars="variable1",
-                      exog_vars=c("variable2","variable4"),
+                      predet_vars="variable4",
                       transformation = "fod",
                       data = Dataset,
                       panel_identifier=c("id", "year"),
